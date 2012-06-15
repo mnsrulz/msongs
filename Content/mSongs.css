@@ -1,0 +1,74 @@
+﻿
+        
+        html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{background:transparent;border:0;font-size:100%;margin:0;outline:0;padding:0;vertical-align:baseline}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+ol,ul{list-style:none}strong{font-weight:bold}table{border-collapse:collapse;border-spacing:0}th{display:table-cell}tr{display:table-row;vertical-align:inherit}thead{display:table-header-group;vertical-align:middle}html{-webkit-text-size-adjust:none}body{background:#fff;color:#444;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;line-height:1;padding-bottom:10px}a{text-decoration:none}textarea{resize:none}.select{background-color:#164673;border:0;color:#fff;overflow:hidden;visibility:hidden}
+.site-header{background-color:#1b5790;padding:7px 10px 9px;position:relative}#digg-logo-wrapper .digg-logo,.site-header .digg-logo{float:left;height:23px;margin-right:2px;width:46px}.main-nav,.main-nav li,.main-nav a{float:left}.main-nav li{margin-left:2px}.main-nav a{color:#fff;font-size:13px;font-weight:bold;padding:5px 4px 7px;border-radius:25px;-moz-border-radius:25px;-webkit-border-radius:25px}.main-nav .active{background-color:#164673}.header-logout,.header-login{color:#fff;display:block;height:13px;padding:14px 2px 14px 7px;position:absolute;right:0;top:0;width:19px}
+.header-logout span{display:block}.header-logout:active{background-color:#164673}.header-login{height:auto;width:auto}.top-news-link span{display:none;margin-left:5px;vertical-align:middle}.top-news-link.active span{display:-moz-inline-stack;display:inline-block;*display:inline;zoom:1}.adbumper{height:15px}.sprite{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -1px -1px;text-indent:-9999px}.sprite.logout{background-position:-47px -17px;height:13px;width:19px}
+.sprite.close-it{background-position:-71px -114px;height:7px;width:7px}.sprite.arrow-down{background-position:-68px -6px;height:4px;width:7px}.sprite.vote-up{background-position:-69px -11px;display:-moz-inline-stack;display:inline-block;*display:inline;height:7px;width:5px;zoom:1}.sprite.bury-icon{background-position:-54px -5px;display:-moz-inline-stack;display:inline-block;*display:inline;height:8px;margin-right:3px;width:8px;zoom:1}.modal-content-inner .auth-sn-facebook-modal .facebook-icon{width:28px;height:28px;overflow:hidden;margin:-3px 4px -8px -3px;display:inline-block;background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -112px 0}
+.mobile-overlay{background-color:#e5ecf3;color:#999;height:100%;padding-bottom:200px;position:absolute;top:0;z-index:9000;width:100%}.overlay-content{background-color:#fff;font-size:13px;padding:15px 0;text-align:center}.close-overlay{background-color:#1b5790;padding:7px 10px 9px;position:relative}.close-overlay .digg-logo{height:23px;float:left;width:46px}.overlay-errors{background-color:#f5e9e9;border-bottom:1px solid #d09494;color:#a62f26;display:none;font-size:14px;font-weight:bold;text-align:center;padding:10px 0}
+.close-overlay-link{color:#fff;display:block;font-weight:bold;padding:14px;position:absolute;right:0;top:0}.close-overlay-link span{display:-moz-inline-stack;display:inline-block;*display:inline;margin-right:6px;zoom:1}#mobile-login,#mobile-media-filters,#mobile-topic-list{display:none}.filter-list{margin:0!important}.filter-list a{background-color:#fff;border:1px solid #ccc;color:#1b5790;display:block;font-size:14px;margin-bottom:5px;padding:10px;text-align:center;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px}
+.filter-list .active{background-color:#1b5790;color:#fff}.topic-selector{color:#4f7a06;font-size:11px;font-weight:normal}#modal-wrapper{display:none;height:100%;position:absolute;width:100%;z-index:9999}#modal-screen{background-color:rgba(0,0,0,.3);height:100%;width:100%;position:fixed}.modal-content,#modal-loading{background-color:white;margin:75px auto 0;position:absolute;width:250px;-webkit-box-shadow:0 0 10px rgba(0,0,0,0.5);-webkit-border-radius:5px}.modal-content-inner{padding:20px}.modal-close .close-icon{background-position:-45px -53px;display:block;height:26px;margin:6px auto 0;width:26px;position:absolute;right:0;top:-10px}
+.mobile-form{background-color:#e5ecf3;border-top:1px solid #ccdcef;padding:8px 35px}
+.mobile-form label{color:#1b5790;font-size:20px}
+.mobile-form input{border-color:#80a1c1;color:#7ba2c2;display:block;font-size:15px;height:20px;margin:0 auto 5px;padding:5px auto;width:100%}
+.mobile-form button,.flat-button,.load-more{background-color:#7ea141;border:0;color:#fff;display:block;font-size:15px;font-weight:bold;margin:0 auto;padding:6px;text-align:center;text-shadow:#639a1c 0 -1px 0;width:100%;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px}
+.placeholder{display:block;position:relative}.flat-button,.load-more{margin:0 10px;padding:10px 0;width:auto}.comment-screen .flat-button.trigger-new-comment{margin:5px 0 0 0;width:100%}.load-more{background-color:#ccc;color:#666;margin-bottom:10px;text-shadow:#fff 0 1px 0}.load-more.loading{background:#f6f6f6 url(http://cdn1.diggstatic.com/img/spinners/small.7465ddfa.gif) no-repeat center center;text-indent:-9999em}
+.list-header{background-color:#ebf3df;border-top:1px solid #b2d281;color:#4f7a06;font-weight:bold;margin-bottom:5px;padding:6px 10px}
+.story-item{border-bottom:1px solid #ccdcef;margin-bottom:5px;padding:0 10px 5px}.story-item-content{padding-left:51px}.story-item-biglink{display:block;width:100%}.story-item-title{color:#2854bb;display:block;font-size:13px;line-height:15px;margin-bottom:5px}.story-item-biglink:visited .story-item-title{color:#86b0e1}
+.story-item-teaser{color:#666;line-height:10px;font-size:10px;}.story-item-source{color:#5f88ce}.digg-button{float:left;height:40px;margin-left:-51px;text-align:center;width:41px}.digg-button.simplified{width:37px;height:37px}
+.digg-button .count{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -1px -25px;color:#444;display:block;font-size:13px;font-weight:bold;line-height:26px;height:26px;width:100%}.digg-button.simplified .count{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -71px -28px;height:37px;line-height:18px}.digg-button .digg-it{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -1px -51px;display:block;height:14px;width:100%}
+.digg-button.simplified .digg-it{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -73px -66px;width:33px;height:18px;margin-top:-20px;margin-left:2px}.digg-button.digg-dugg .digg-it{background-position:-1px -66px}.digg-button.digg-dugg.simplified .digg-it,.digg-button.simplified.digg-advert[data-user-dugg="true"] .digg-it{background-position:-73px -85px}.digg-button.digging{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -1px -81px}
+.digg-button.digging .digg-it,.digg-button.digging .count{display:none}.new-stories{border-top:3px solid #333;margin-top:-11px;padding-top:10px}.filters{background-color:#e5ecf3;color:#4b8fd3;margin:0;padding:6px 0 6px 10px;position:relative}.filters li{float:left;margin-right:10px}.filters a{color:#4b8fd3;display:block;font-size:11px;line-height:11px;padding:3px 0}.filters .active{color:#004a94;font-weight:bold}.filters .divider{border-left:1px solid #b2c6da;padding-left:10px}.filters .media-filters{float:right;padding-left:6px}
+.media-filters a{background:url(http://cdn1.diggstatic.com/img/sprites/mobile.f04e47f1.png) no-repeat -43px -81px;display:-moz-inline-stack;display:inline-block;*display:inline;height:14px;padding:3px 0;text-indent:-9999px;width:28px;vertical-align:middle;zoom:1}.nothing-found{padding:10px 20px 20px;text-align:center}.nothing-found .title{font-size:14px;font-weight:bold;margin-bottom:5px}.mobile-footer{margin:0 auto;padding:10px 0;text-align:center}.mobile-footer .copyright{padding:10px 0;color:#666}
+.group{display:block}.group:after{clear:both;content:".";display:block;height:0;visibility:hidden}/*\*/.group{min-height:1%}* html .group{height:1%}/**/#message-dock{background-color:#f5e9e9;border-bottom:1px solid #d09494;color:#a62f26;display:none;font-size:14px;font-weight:bold;text-align:center;padding:10px 0}#message-dock .dismiss{display:none}#message-sleeve{margin:0 auto}#message-text{background-color:#f5e9e9;color:#a62f26;font-size:14px;font-weight:bold;text-align:center;padding:0}
+.message-icon{display:none}.btn{border:0;cursor:pointer;display:-moz-inline-stack;display:inline-block;*display:inline;font-weight:bold;font-size:13px;letter-spacing:-0.03em;line-height:1.25em;overflow:visible;padding:7px;width:auto;zoom:1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px}.btn-default{color:#005991;background-color:#fff;border:1px solid #005991}.btn-primary{background-color:#005991;border:1px solid #005991;color:#fff}.btn-primary a{color:#fff}.center{display:inline-block;width:100%;text-align:center}
+.hidden{display:none!important}.float-left{float:left}.float-right{float:right}.modal-content .modal-content-inner{padding:20px}.modal-content-inner .auth-sn-facebook-modal{background-color:#637bad;border:solid 1px #29447e;margin-top:5px;line-height:21px;font-weight:bold;margin-right:5px;color:#fff;font-size:11px;padding:3px}.modal-content-inner .auth-sn-facebook-modal .facebook-icon{width:21px;height:21px;margin:-3px 8px 0 -3px}.modal-content-inner .auth-sn-facebook-modal a{color:white}
+        
+ 
+
+
+.search-box
+{
+    padding: 6px 10px;
+    }
+
+#txtSearch
+{
+    width: 100%;
+    height: 17px;    
+    border: solid 1px #B1B1B1;
+    font-size: 12px;
+    padding: 3px 3px 3px 3px;
+    color: #343434;
+    margin: 0px;
+}
+
+#btnSearch
+{
+    border-style: none;
+    border-width: 0px;    
+    height:25px;width:32px;    
+    padding: 0px;
+    margin: 0px 0px 0px 7px ;
+    background: url(../images/header-search_btn.png);
+    text-indent: -9999px;
+    background-repeat: no-repeat;            
+}
+
+#imgSearch
+{
+    position:absolute;
+    right:10px;
+     border-style: none;
+    border-width: 1px;
+    border-color: inherit;
+    width: 29px;
+    height: 22px;
+    padding: 0px;
+    margin: 0px;
+    }
+    
+    .pager-div
+    {
+        padding: 0px 0px 0px 5px;
+        }
